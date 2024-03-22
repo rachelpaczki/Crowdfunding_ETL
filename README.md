@@ -33,7 +33,5 @@ This project involved the extraction, transformation, and loading (ETL) of crowd
 - `subcategory.csv`: Contains subcategory data extracted from the crowdfunding Excel file.
 - `campaign.csv`: Contains campaign data extracted and transformed from the crowdfunding Excel file.
 - `contacts.csv`: Contains contact information extracted and transformed from the contacts Excel file.
-- `crowdfunding_db_schema.sql`: Schema file for creating tables in the crowdfunding database.
-- `README.md`: Overview of the Crowdfunding ETL project and its specifications.
 
 This README provides detailed information about the Crowdfunding ETL project, including its objectives, specifications, contributors, and file structure.
