@@ -28,4 +28,4 @@ This project involved the extraction, transformation, and loading (ETL) of crowd
 - Rachel Puzycki
 - Rachel Taylor
 
-This README provides detailed information about the Crowdfunding ETL project, including its objectives, specifications, contributors, and file structure.
+This README provides detailed information about the Crowdfunding ETL project, including its objectives, specifications, and contributors.
