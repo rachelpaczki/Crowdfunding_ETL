@@ -28,10 +28,4 @@ This project involved the extraction, transformation, and loading (ETL) of crowd
 - Rachel Puzycki
 - Rachel Taylor
 
-## File Structure
-- `category.csv`: Contains category data extracted from the crowdfunding Excel file.
-- `subcategory.csv`: Contains subcategory data extracted from the crowdfunding Excel file.
-- `campaign.csv`: Contains campaign data extracted and transformed from the crowdfunding Excel file.
-- `contacts.csv`: Contains contact information extracted and transformed from the contacts Excel file.
-
 This README provides detailed information about the Crowdfunding ETL project, including its objectives, specifications, contributors, and file structure.
